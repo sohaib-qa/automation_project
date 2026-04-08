@@ -3,7 +3,7 @@
 def pytest_playwright_config(playwright, config):
     return {
         "use": {
-            "headless": False,
+            "headless": True,
             "viewport": {"width": 1366, "height": 768},
             "actionTimeout": 50000,
             "navigationTimeout": 60000,
