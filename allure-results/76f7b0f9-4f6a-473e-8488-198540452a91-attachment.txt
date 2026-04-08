@@ -1,0 +1,3 @@
+✔ Logged in once for all tests
+
+📸 Screenshot saved: screenshots\test_create_branch.png

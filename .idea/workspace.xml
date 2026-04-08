@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b7d986f-5671-4c09-84d8-3b48e4b78881" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/automation_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright.config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/sanity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/screenshots/test_create_branch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/screenshots/test_create_form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/screenshots/test_create_form_schedule.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/screenshots/test_create_location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/screenshots/test_create_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/1_Regression_Branch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/2_Regression_location.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/3_Regression_form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/4_Regression_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/5_Regression_Create_event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/6_Regression_lookup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/7_Regression_role.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/8_Regression_chat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Add_new_form_sheduler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Regression_section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/role_permission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_activity_location_updated.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_clone_Branch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_clone_Form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_clone_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_create_branch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_create_form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_create_form1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_create_form2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_create_location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_create_location1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_create_location2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_create_location3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_create_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_create_user1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_create_user2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_edit_from.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_edit_location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_edit_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_multi_delete_Branch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_multi_delete_Location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_multi_delete_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_search_Branch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_search_Location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_search_event.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_search_form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_search_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_single_delete_Branch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_single_delete_Location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/screenshots/test_single_delete_user.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="34D1cM3yuyHTL1fL3UJXn7cxdcH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for 1_Create_Branch.test_clone_Branch.executor": "Run",
+    "Python tests.Python tests for 1_Create_Branch.test_create_and_verify_branch.executor": "Run",
+    "Python tests.Python tests for 1_Create_Branch.test_create_and_verify_branch.test_example.executor": "Run",
+    "Python tests.Python tests for 1_Create_Branch.test_example.executor": "Run",
+    "Python tests.Python tests for 1_Create_Branch.test_filter_Branch.executor": "Run",
+    "Python tests.Python tests for 1_Create_Branch.test_search_Branch.executor": "Run",
+    "Python tests.Python tests for 1_Regression_Branch.test_clone_Branch.executor": "Run",
+    "Python tests.Python tests for 1_Regression_Branch.test_create_and_verify_branch.executor": "Run",
+    "Python tests.Python tests for 1_Regression_Branch.test_filter_Branch.executor": "Run",
+    "Python tests.Python tests for 1_Regression_Branch.test_multi_delete_Branch.executor": "Run",
+    "Python tests.Python tests for 1_Regression_Branch.test_search_Branch.executor": "Run",
+    "Python tests.Python tests for 1_Regression_Branch.test_verify_branch_details.executor": "Run",
+    "Python tests.Python tests for 1_Regression_Branch.test_verify_branch_update_activity.executor": "Run",
+    "Python tests.Python tests for 2_Create_location.test_activity_location_deleted.executor": "Run",
+    "Python tests.Python tests for 2_Create_location.test_filter_Branch.executor": "Run",
+    "Python tests.Python tests for 2_Create_location.test_filter_Location.executor": "Run",
+    "Python tests.Python tests for 2_Create_location.test_location_delete_activity.executor": "Run",
+    "Python tests.Python tests for 2_Create_location.test_multi_delete_Location.executor": "Run",
+    "Python tests.Python tests for 2_Create_location.test_search_Location.executor": "Run",
+    "Python tests.Python tests for 2_Regression_location.test_create_location2.executor": "Run",
+    "Python tests.Python tests for 3_Create_form.test_clone_Form.executor": "Run",
+    "Python tests.Python tests for 3_Create_form.test_create_location.executor": "Run",
+    "Python tests.Python tests for 3_Regression_form.test_create_form.executor": "Run",
+    "Python tests.Python tests for 4_Regression_user.test_clone_user.executor": "Run",
+    "Python tests.Python tests for 4_Regression_user.test_create_user.executor": "Run",
+    "Python tests.Python tests for 4_Regression_user.test_create_user1.executor": "Run",
+    "Python tests.Python tests for 6_Regression_lookup.test_search_lookup.executor": "Run",
+    "Python tests.Python tests for Add_new_form_sheduler.test_create_form_shedule.executor": "Run",
+    "Python tests.Python tests for Create_Branch.test_create_branch.executor": "Run",
+    "Python tests.Python tests for Create_chat.test_chat_delete.executor": "Run",
+    "Python tests.Python tests for Create_chat.test_chat_filter.executor": "Run",
+    "Python tests.Python tests for Create_chat.test_create_chat.executor": "Run",
+    "Python tests.Python tests for Create_event.test_activity_event_updated.executor": "Run",
+    "Python tests.Python tests for Create_event.test_create_chat.executor": "Run",
+    "Python tests.Python tests for Create_event.test_create_event.executor": "Run",
+    "Python tests.Python tests for Create_event.test_edit_event.executor": "Run",
+    "Python tests.Python tests for Create_form.test_create_form.executor": "Run",
+    "Python tests.Python tests for Create_form.test_create_location.executor": "Run",
+    "Python tests.Python tests for Create_location.test_create_location.executor": "Run",
+    "Python tests.Python tests for Create_lookup.test_clone_lookup.executor": "Run",
+    "Python tests.Python tests for Create_lookup.test_create_lookup.executor": "Run",
+    "Python tests.Python tests for Create_role.test_create_branch.executor": "Run",
+    "Python tests.Python tests for Create_role.test_role_delete.executor": "Run",
+    "Python tests.Python tests for Create_section.test_create_lookup.executor": "Run",
+    "Python tests.Python tests for Create_section.test_create_section_edit.executor": "Run",
+    "Python tests.Python tests for Create_user.test_create_section_edit.executor": "Run",
+    "Python tests.Python tests for Regression_chat.test_chat_filter.executor": "Run",
+    "Python tests.Python tests for Regression_section.test_create_section_edit.executor": "Run",
+    "Python tests.Python tests for role_permission.test_create_branch.executor": "Run",
+    "Python tests.Python tests for sanity.test_create_branch.executor": "Run",
+    "Python tests.Python tests for sanity.test_create_form.executor": "Run",
+    "Python tests.Python tests for sanity.test_create_location.executor": "Run",
+    "Python tests.Python tests for sanity.test_create_role.executor": "Run",
+    "Python tests.Python tests for test_login.test_no_branch_access.executor": "Run",
+    "Python tests.Python tests in 1_Create_Branch.py.executor": "Run",
+    "Python tests.Python tests in 1_Regression_Branch.py.executor": "Run",
+    "Python tests.Python tests in 2_Regression_location.py.executor": "Run",
+    "Python tests.Python tests in 3_Regression_form.py.executor": "Run",
+    "Python tests.Python tests in 4_Regression_user.py.executor": "Run",
+    "Python tests.Python tests in 5_Regression_Create_event.py.executor": "Run",
+    "Python tests.Python tests in 6_Regression_lookup.py.executor": "Run",
+    "Python tests.Python tests in Create_role.py.executor": "Run",
+    "Python tests.Python tests in Regression_chat.py.executor": "Run",
+    "Python tests.Python tests in Regression_section.py.executor": "Run",
+    "Python tests.Python tests in sanity.py.executor": "Run",
+    "Python tests.Python tests in tests.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Social Media\PycharmProjects\automation_project\extra" />
+      <recent name="C:\Users\Social Media\PycharmProjects\automation_project" />
+      <recent name="C:\Users\Social Media\PycharmProjects\automation_project\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for Add_new_form_sheduler.test_create_form_shedule">
+    <configuration name="Python tests for 1_Regression_Branch.test_create_and_verify_branch" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="automation_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;1_Regression_Branch.test_create_and_verify_branch&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for 1_Regression_Branch.test_verify_branch_details" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="automation_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;1_Regression_Branch.test_verify_branch_details&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for 3_Regression_form.test_create_form" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="automation_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;3_Regression_form.test_create_form&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Add_new_form_sheduler.test_create_form_shedule" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="automation_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Add_new_form_sheduler.test_create_form_shedule&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in tests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="automation_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for Add_new_form_sheduler.test_create_form_shedule" />
+        <item itemvalue="Python tests.Python tests in tests" />
+        <item itemvalue="Python tests.Python tests for 3_Regression_form.test_create_form" />
+        <item itemvalue="Python tests.Python tests for 1_Regression_Branch.test_verify_branch_details" />
+        <item itemvalue="Python tests.Python tests for 1_Regression_Branch.test_create_and_verify_branch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b7d986f-5671-4c09-84d8-3b48e4b78881" name="Changes" comment="" />
+      <created>1760733406376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760733406376</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/7_Regression_role.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
